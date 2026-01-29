@@ -100,6 +100,8 @@ The data model follows real-world banking analytics best practices.
 
 ![alt](https://github.com/KalyaniPawar-des/Banking-Data-analysis/blob/d08106547e91f1de651e2355f6001fd33d61b869/Bank%20Analysis.png)
 
+![alt](https://github.com/KalyaniPawar-des/Banking-Data-analysis/blob/5e257d8605e69b44071b19d974977445ece37af2/Account%20Analysis.png)
+
 ---
 
 ## 🚀 How to Use
