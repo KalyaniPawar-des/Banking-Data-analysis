@@ -4,6 +4,7 @@
 This project presents a Bank Data Analysis Dashboard built to analyze customer accounts, transactions, balances, and activity trends. The dashboard helps banking stakeholders monitor financial performance, customer distribution, and account health using interactive visualizations.
 
 The report focuses on transaction behavior, customer demographics, inactive accounts, and monthly transaction trends to support data-driven decision making.
+
 ---
 
 ## 🎯 Objectives
@@ -24,23 +25,23 @@ The dataset represents banking operational data and includes the following entit
 
 ## 👤 Customer Data
 
-Customer ID & Name
-Gender
-Demographic details
+* Customer ID & Name
+* Gender
+* Demographic details
 
 ## 💳 Account Data
 
-Account ID
-Account Type (Savings / Current)
-Opening Date
-Account Balance
+* Account ID
+* Account Type (Savings / Current)
+* Opening Date
+* Account Balance
 
 ## 🔄 Transaction Data
 
-Transaction ID
-Debit / Credit Type
-Transaction Amount
-Transaction Date
+* Transaction ID
+* Debit / Credit Type
+* Transaction Amount
+* Transaction Date
 
 Monthly Aggregations
 ---
@@ -55,7 +56,6 @@ Monthly Aggregations
 ---
 
 ## 🧱 Data Model (Logical View)
- Note:
 The dataset used in this dashboard is synthetic / sample data generated using Perplexity AI for learning, demonstration, and portfolio purposes.
 The data model follows real-world banking analytics best practices.
 
@@ -63,26 +63,26 @@ The data model follows real-world banking analytics best practices.
 ---
 
 ## 📌 Key Dashboard Visuals
-1️⃣ Balance by Customer Name
-Displays individual customer balances
-Highlights negative balances for risk identification
-Useful for customer-level financial analysis
+* 1️⃣ Balance by Customer Name
+  Displays individual customer balances
+  Highlights negative balances for risk identification
+  Useful for customer-level financial analysis
 
-2️⃣ Transaction Count (Debit vs Credit)
-Donut chart comparing debit and credit transactions
-Helps assess transaction behavior and cash flow patterns
+* 2️⃣ Transaction Count (Debit vs Credit)
+   Donut chart comparing debit and credit transactions
+   Helps assess transaction behavior and cash flow patterns
 
-3️⃣ Customer Count by Gender
-Shows gender-wise customer distribution
-Identifies missing or blank demographic data
+* 3️⃣ Customer Count by Gender
+  Shows gender-wise customer distribution
+  Identifies missing or blank demographic data
 
-4️⃣ Inactive Accounts by Month
-Line chart tracking inactive accounts over time
-Helps banks identify customer drop-off trends
+* 4️⃣ Inactive Accounts by Month
+  Line chart tracking inactive accounts over time
+  Helps banks identify customer drop-off trends
 
-5️⃣ Monthly Transaction Amount Trend
-Monthly transaction amount comparison
-Detects seasonal patterns and financial fluctuations
+* 5️⃣ Monthly Transaction Amount Trend
+  Monthly transaction amount comparison
+  Detects seasonal patterns and financial fluctuations
 
 ---
 
@@ -98,7 +98,7 @@ Detects seasonal patterns and financial fluctuations
 
 ## 📷 Dashboard Preview
 
-> *(Add screenshots of your Power BI dashboard here)*
+![alt](https://github.com/KalyaniPawar-des/Banking-Data-analysis/blob/d08106547e91f1de651e2355f6001fd33d61b869/Bank%20Analysis.png)
 
 ---
 
